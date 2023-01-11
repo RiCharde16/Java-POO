@@ -1,4 +1,4 @@
-package Herança.Exercicio2.Polimofismo;
+package Herança.Exercicio2.Polimorfismo;
 
 public class RodarAplicacao {
     public static void main(String[] args) {

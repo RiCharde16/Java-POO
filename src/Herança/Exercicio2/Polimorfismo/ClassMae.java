@@ -1,4 +1,4 @@
-package Herança.Exercicio2.Polimofismo;
+package Herança.Exercicio2.Polimorfismo;
 
 public class ClassMae {
     void metodo1(){

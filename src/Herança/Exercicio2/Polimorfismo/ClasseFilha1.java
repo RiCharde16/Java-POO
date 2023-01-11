@@ -1,4 +1,4 @@
-package Herança.Exercicio2.Polimofismo;
+package Herança.Exercicio2.Polimorfismo;
 
 public class ClasseFilha1 extends ClassMae{
     
