@@ -1,7 +1,7 @@
 ## Java-Programção-Orientada-Objeto-DIO
 
 Nessa trila aprendi sobre:
- - Classes checked&;
+ - Classes;
  - Objetos
  - Heranças
  - Polimorfismo
